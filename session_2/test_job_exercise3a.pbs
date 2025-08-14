@@ -6,7 +6,7 @@
 #PBS -q normal
 #PBS -l ncpus=48
 #PBS -l storage=scratch/he61
-#PBS -l mem=25gb
+#PBS -l mem=200GB
 #PBS -l walltime=00:05:00
 #PBS -l wd
 
